@@ -2,20 +2,7 @@
 permalink: /
 title: Up to zero! 🪐
 ---
+# Hi, Colbe! I made a wesite!
 
-<header id="page-header">
-  <h1>
-    Up to zero! 🪐
-  </h1>
-  <p>Get started:</p>
-  <ul>
-    <li>Edit this page: <code>src/pages/index.md</code></li>
-    <li>Add or edit navigation: <code>src/data/navigation.json</code></li>
-    <li>Change colors and styles: <code>src/assets/styles/</code></li>
-  </ul>
+{% image "https://source.unsplash.com/1024x768/?pikachu", "Random image of a pikachu", "100%" %}
 
-  <hr>
-
-  {% image "https://source.unsplash.com/1024x768/?beagle", "Random image of a beagle", "100%" %}
-
-</header>
